@@ -1,18 +1,19 @@
 {
-    "my_degrees": [{
+    "degrees": [
+        {
             "degree": {
                 "School": "Washington State University",
-                "Program/Major": "Organic Agriculture",
+                "Program": "Organic Agriculture",
                 "Type": "BA",
-                "Year conferred": "2017"
+                "Year": "2017"
             }
         },
         {
             "degree": {
                 "School": "Boston University",
-                "Program/Major": "Software Development",
+                "Program": "Software Development",
                 "Type": "MS",
-                "Year conferred": "2020"
+                "Year": "2020"
             }
         }
     ]
